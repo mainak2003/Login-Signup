@@ -14,7 +14,7 @@ body{
 
 .back-button{
 	color: white;
-	background-color: rgb(4, 132, 230);
+	background-color: #ff3c78;
 	box-shadow: 0 0 5px 3px rgba(160, 139, 139, 0.437);
 	position: relative;
 	top: 35px;
@@ -26,7 +26,8 @@ body{
 	
 }
 
-.back-button a{
+.back-button-link{
+    background-color: #ff3c78;
 	color: white;
 	text-decoration: none;	
 }
